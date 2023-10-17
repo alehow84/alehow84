@@ -1,4 +1,9 @@
-### Hi there 👋
+### Helloooo
+I'm Alex and I'm quite early on in my developer journey 🤓
+My pronouns are she/her and I have two mischievous cats called Suki & Ziggy
+I'm part way through a FrontEnd course with SheCodes and will soon be starting a Software Development bootcamp with NorthCoders. I completed a Python taster course earlier this year which completely blew my mind!
+I've loved what I've learned so far and am hoping to switch careers into a tech role
+Two truths and a lie about me: Charlie Dimmock signed a kite I made at the millenium dome, I've jumped out of a plane and I have a neighbour called Phillip that occassionally tries to break in to my house!
 
 <!--
 **alehow84/alehow84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
