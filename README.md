@@ -1,4 +1,4 @@
-# Alex Howlett - Trainee/Junior Software Developer - open to work 
+## Alex Howlett - Trainee/Junior Software Developer - open to work 
 
 ##Technical Skills
 
