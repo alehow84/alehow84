@@ -1,6 +1,6 @@
 ## Alex Howlett - Trainee/Junior Software Developer - open to work 
 
-##Technical Skills
+*Technical Skills*
 
 - Language: Javascript using Node.js and browsers as environment
 - Testing: Test Driven Development, Jest, Supertest
@@ -9,7 +9,7 @@
 - Hosting: Netlify, Render, Cloudflare
 - Other: Paired-programming, technical communication, SDL, Agile and SCRUM methodologies
 
-##Developer Experience
+*Developer Experience*
 
 - Currently undertaking a Software Development Bootcamp with [Northcoders](https://northcoders.com/), due to gradutate 1/3/24.
 - Progressing through a Front-end Development Workshop with [SheCodes](https://www.shecodes.io/) 2/10 projects complete so far including a Vanilla JS Weather app
