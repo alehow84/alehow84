@@ -1,5 +1,10 @@
 ## Alex Howlett - Junior Full-Stack Developer | Javascript | React | NodeJS | HTML | CSS | SQL | Jest - open to work 
 
+*Contact Info*
+
+- View my [Linkedin](www.linkedin.com/in/alexandra-howlett-2b4a90136)
+- Email address: alex.howlett@live.co.uk
+
 *Technical Skills*
 
 - Language: Javascript using Node.js and browsers as environment
