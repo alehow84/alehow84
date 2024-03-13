@@ -1,4 +1,4 @@
-## Alex Howlett - Trainee/Junior Software Developer - open to work 
+## Alex Howlett - Junior Full-Stack Developer | Javascript | React | NodeJS | HTML | CSS | SQL | Jest - open to work 
 
 *Technical Skills*
 
@@ -6,7 +6,7 @@
 - Testing: Test Driven Development, Jest, Supertest
 - Back-end: SQL, PSQL, seeding, migrations
 - Front-end: HTML, CSS, React, Lighthouse and other accessibility tools
-- Hosting: Netlify, Render, Cloudflare
+- Hosting: Netlify, Render
 - Other: Paired-programming, technical communication, SDL, Agile and SCRUM methodologies
 
 *Developer Experience*
